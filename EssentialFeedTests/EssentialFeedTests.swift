@@ -2,7 +2,7 @@
 //  EssentialFeedTests.swift
 //  EssentialFeedTests
 //
-//  Created by claudia maciel on 2/21/22.
+//  Created by Claudia Maciel on 2/21/22.
 //
 
 import XCTest
