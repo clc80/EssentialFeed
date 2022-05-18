@@ -2,7 +2,7 @@
 //  EssentialFeedAPIEndToEndTests.swift
 //  EssentialFeedAPIEndToEndTests
 //
-//  Created by claudia maciel on 3/30/22.
+//  Created by Claudia Maciel on 3/30/22.
 //
 
 import XCTest
