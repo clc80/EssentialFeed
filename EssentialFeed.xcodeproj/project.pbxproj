@@ -36,6 +36,7 @@
 		FB79AA30285818C100AE4C50 /* FeedCacheTestHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB79AA2F285818C100AE4C50 /* FeedCacheTestHelpers.swift */; };
 		FB79AA3228581A1100AE4C50 /* SharedTestHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB79AA3128581A1100AE4C50 /* SharedTestHelpers.swift */; };
 		FB79AA34285974FC00AE4C50 /* FeedCachePolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB79AA33285974FC00AE4C50 /* FeedCachePolicy.swift */; };
+		FB837E27287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB837E26287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift */; };
 		FBF24138285E29AD00CD8D34 /* CodableFeedStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF24137285E29AC00CD8D34 /* CodableFeedStoreTests.swift */; };
 /* End PBXBuildFile section */
 
@@ -86,6 +87,7 @@
 		FB79AA2F285818C100AE4C50 /* FeedCacheTestHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCacheTestHelpers.swift; sourceTree = "<group>"; };
 		FB79AA3128581A1100AE4C50 /* SharedTestHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedTestHelpers.swift; sourceTree = "<group>"; };
 		FB79AA33285974FC00AE4C50 /* FeedCachePolicy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCachePolicy.swift; sourceTree = "<group>"; };
+		FB837E26287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCTestCase+FailableRetrieveFeedStoreSpecs.swift"; sourceTree = "<group>"; };
 		FBF24137285E29AC00CD8D34 /* CodableFeedStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableFeedStoreTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -236,6 +238,7 @@
 				FB79AA2F285818C100AE4C50 /* FeedCacheTestHelpers.swift */,
 				E76408D42877886B00E2BF94 /* FeedStoreSpecs.swift */,
 				E76408D628778A8B00E2BF94 /* XCTestCase+FeedStoreSpecs.swift */,
+				FB837E26287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -406,6 +409,7 @@
 				E7FE0D47285262E400AA3602 /* FeedStoreSpy.swift in Sources */,
 				FB79AA3228581A1100AE4C50 /* SharedTestHelpers.swift in Sources */,
 				E7518DF6281B4BE100B4A7E0 /* CacheFeedUseCaseTests.swift in Sources */,
+				FB837E27287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift in Sources */,
 				E7FE0D4428525FD900AA3602 /* LoadFeedFromCacheUseCaseTests.swift in Sources */,
 				E76408D52877886B00E2BF94 /* FeedStoreSpecs.swift in Sources */,
 				E7BA96E127F396E600A97C65 /* XCTTestCase+MemoryLeakTracking.swift in Sources */,
