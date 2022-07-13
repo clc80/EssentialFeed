@@ -176,6 +176,7 @@
 		E7518DF4281B4BBE00B4A7E0 /* Feed Caches */ = {
 			isa = PBXGroup;
 			children = (
+				FB837E2C287E51EA00E552A9 /* FeedStoreSpecs */,
 				E7FE0D45285262D300AA3602 /* Helpers */,
 				E7518DF5281B4BE100B4A7E0 /* CacheFeedUseCaseTests.swift */,
 				E7FE0D4328525FD900AA3602 /* LoadFeedFromCacheUseCaseTests.swift */,
@@ -240,13 +241,20 @@
 			children = (
 				E7FE0D46285262E400AA3602 /* FeedStoreSpy.swift */,
 				FB79AA2F285818C100AE4C50 /* FeedCacheTestHelpers.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		FB837E2C287E51EA00E552A9 /* FeedStoreSpecs */ = {
+			isa = PBXGroup;
+			children = (
 				E76408D42877886B00E2BF94 /* FeedStoreSpecs.swift */,
 				E76408D628778A8B00E2BF94 /* XCTestCase+FeedStoreSpecs.swift */,
 				FB837E26287E4EFD00E552A9 /* XCTestCase+FailableRetrieveFeedStoreSpecs.swift */,
 				FB837E28287E502D00E552A9 /* XCTestCase+FailableInsertFeedStoreSpecs.swift */,
 				FB837E2A287E50F600E552A9 /* XCTestCase+FailableDeleteFeedStoreSpecs.swift */,
 			);
-			path = Helpers;
+			path = FeedStoreSpecs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
