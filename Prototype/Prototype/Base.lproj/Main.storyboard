@@ -45,11 +45,11 @@
                                                             <rect key="frame" x="0.0" y="0.0" width="10" height="18"/>
                                                             <subviews>
                                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="g4g-m0-ZeH">
-                                                                    <rect key="frame" x="0.0" y="3.5" width="20" height="13"/>
+                                                                    <rect key="frame" x="0.0" y="3" width="10" height="14"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="height" constant="14" id="qTi-uv-I1f"/>
                                                                     </constraints>
-                                                                    <imageReference key="image" image="mappin.circle.fill" catalog="system" symbolScale="medium"/>
+                                                                    <imageReference key="image" image="pin" symbolScale="medium"/>
                                                                     <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="medium"/>
                                                                 </imageView>
                                                             </subviews>
@@ -151,7 +151,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="mappin.circle.fill" catalog="system" width="128" height="121"/>
+        <image name="pin" width="10" height="14"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
