@@ -2,7 +2,7 @@
 //  CoreDataHelpers.swift
 //  EssentialFeed
 //
-//  Created by claudia maciel on 8/8/22.
+//  Created by Claudia Maciel on 8/8/22.
 //
 
 import CoreData
